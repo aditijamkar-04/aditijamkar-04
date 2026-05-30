@@ -1,6 +1,6 @@
-# Hi there, I'm Aditi Jamkar👋
+# Hi there 👋
 
-🎓 I'm AI & Data Science Engineering Student
+I'm Aditi Jamkar. amd I'm AI & Data Science Engineering Student
 
 💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Analytics.
 
