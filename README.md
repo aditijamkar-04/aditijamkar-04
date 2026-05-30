@@ -9,7 +9,6 @@
 * Generative AI
 * Large Language Models (LLMs)
 * Deep Learning
-* MLOps
 
 🔭 Currently working on:
 
@@ -28,7 +27,6 @@
 * Python
 * Machine Learning
 * Data Science
-* Git & GitHub
 
 🛠️ Tech Stack:
 
@@ -40,7 +38,6 @@
 * NumPy
 * Matplotlib
 * Scikit-learn
-* Git & GitHub
 
 📂 Featured Projects:
 
