@@ -1,34 +1,34 @@
 # Hi there, I'm Aditi Jamkar👋
 
-🎓 AI & Data Science Engineering Student
+🎓 I'm AI & Data Science Engineering Student
 
 💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Analytics.
 
-🌱 Currently learning:
+🌱 I'm Currently learning....
 
 * Generative AI
 * Large Language Models (LLMs)
 * Deep Learning
 
-🔭 Currently working on:
+🔭 I'm Currently working on....
 
 * AI & Machine Learning Projects
 * Data Analysis Projects
 * Building my GitHub Portfolio
 
-👯 Looking to collaborate on:
+👯 I'm Looking to collaborate on......
 
 * Machine Learning Projects
 * Open Source Contributions
 * AI Research Projects
 
-💬 Ask me about:
+💬 Ask me about......
 
 * Python
 * Machine Learning
 * Data Science
 
-🛠️ Tech Stack:
+🛠️ Tech Stack....
 
 * Python
 * C++
@@ -39,13 +39,18 @@
 * Matplotlib
 * Scikit-learn
 
-📂 Featured Projects:
+📂 Featured Projects....
 
 * Handwritten Digit Recognition using CNN
 * Fake Review Detection using NLP
 * Web Scraping
 
-⚡ Fun fact:
+📫 Connect With Me.....
+
+* LinkedIn: www.linkedin.com/in/aditi-jamkar-747306361
+* Email: aditijamkar123@gmail.com
+
+⚡ Fun fact....
 I enjoy trekking, exploring new technologies, and turning data into meaningful insights.
 
 ⭐ Thanks for visiting my profile!
