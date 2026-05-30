@@ -1,4 +1,4 @@
-# Hi there, I'm Aditi 👋
+# Hi there, I'm Aditi Jamkar👋
 
 🎓 AI & Data Science Engineering Student
 
