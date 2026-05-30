@@ -1,6 +1,7 @@
 # Hi there, I'm Aditi Jamkar👋
 
 🎓 I'm AI & Data Science Engineering Student
+
 💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Analytics.
 
 🌱 I'm Currently learning....
