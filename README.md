@@ -32,36 +32,34 @@ I'm an **Artificial Intelligence and Data Science Engineer** interested in devel
 
 ## 🧰 Technical Skills
 
-<div align="center">
-
 **Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=python,cpp" />
 
-**Data Science & Python Libraries**
+**Database & Query Languages**
+
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/T--SQL-Database%20Queries-0078D4?style=for-the-badge" />
+
+**Data Science & Machine Learning**
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge" />
 
-**Frameworks & Technologies**
+**Frameworks & AI Technologies**
 
 <img src="https://skillicons.dev/icons?i=flask,html,css" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLGlot-SQL%20Parsing-4169E1?style=for-the-badge" />
 
-**Databases & Development Tools**
+**Tools & Development Environment**
 
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/SSMS-Database%20Management-0078D4?style=for-the-badge" />
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-
-</div>
-
 ---
 
 ## 🎓 Education
