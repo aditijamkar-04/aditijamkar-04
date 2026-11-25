@@ -5,13 +5,13 @@
 ### Turning Data into Insights | Building Practical AI Solutions
 
 <a href="https://www.linkedin.com/in/aditi-jamkar-747306361">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/aditijamkar-04">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aditijamkar123@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
@@ -139,7 +139,7 @@ A collection of Python programs, practice exercises and coding problems develope
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditijamkar-04&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditijamkar-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijamkar-04&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -159,18 +159,18 @@ A collection of Python programs, practice exercises and coding problems develope
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
-I'm always happy to connect, exchange ideas, learn new technologies and collaborate on interesting projects.
+I'm always interested in connecting with people who enjoy technology, learning and building meaningful projects.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aditi-jamkar-747306361">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aditijamkar123@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <p>📧 <a href="mailto:aditijamkar123@gmail.com">aditijamkar123@gmail.com</a></p>
