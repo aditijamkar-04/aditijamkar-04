@@ -78,16 +78,24 @@ Babasaheb Naik College of Engineering, Pusad
 
 **Natural language questions. SQL answers.**
 
-An AI-powered web application that converts everyday English questions into SQL queries and retrieves results from a Microsoft SQL Server database.
+Developed an AI-powered web application that converts natural-language questions into SQL queries and retrieves results from a Microsoft SQL Server database. The application simplifies database interaction by allowing users to query data without manually writing SQL.
 
 **Key Features**
-- Converts natural-language questions into SQL queries.
-- Uses Ollama with Qwen2.5-Coder for local AI generation.
-- Validates SQL queries using SQLGlot.
-- Restricts execution to read-only SELECT queries.
-- Supports user authentication and private database workspaces.
+- Converts natural-language questions into SQL queries using an LLM.
+- Retrieves database schema information to support query generation.
+- Validates generated SQL queries using SQLGlot.
+- Restricts query execution to read-only SELECT statements.
+- Implements user authentication and role-based access.
+- Provides separate database workspaces for users.
+- Displays query results, SQL explanations and query history.
 
-**Tech Stack:** Python · Flask · Ollama · Qwen2.5-Coder · Microsoft SQL Server · SQLGlot
+**Technical Highlights**
+- Integrated AI-based SQL generation with database schema retrieval.
+- Implemented SQL parsing and validation before query execution.
+- Added query result limits and execution timeouts.
+- Developed workspace management and database operations.
+
+**Tech Stack:** Python · Flask · LLM Integration · Microsoft SQL Server · PyODBC · SQLGlot · SQLite · HTML · CSS · JavaScript
 
 🔗 [View AI-Powered Text-to-SQL Assistant](https://github.com/aditijamkar-04/TextToSQL-Assistant)
 
@@ -95,15 +103,25 @@ An AI-powered web application that converts everyday English questions into SQL 
 
 ### 2. 🔍 Fake Review Detection Using Machine Learning & NLP
 
-A machine learning project focused on identifying fake and genuine online reviews through text-based analysis.
+**Identifying potentially fake reviews using Machine Learning and NLP.**
+
+Developed a machine learning web application that analyzes online review text and classifies reviews as Fake or Genuine. The project uses Natural Language Processing techniques and TF-IDF feature extraction to convert text into numerical features for machine learning classification.
 
 **Key Features**
-- Text preprocessing and analysis.
-- NLP-based text classification.
-- Machine learning model training.
-- Web application development.
+- Analyzes submitted product review text.
+- Preprocesses text before model prediction.
+- Uses TF-IDF for text feature extraction.
+- Explores Logistic Regression, Naive Bayes and Random Forest classifiers.
+- Provides review classification through a web interface.
+- Integrates the frontend with the Python machine learning backend.
 
-**Tech Stack:** Python · Machine Learning · NLP · Scikit-learn · NLTK · Flask
+**Technical Highlights**
+- Applied NLP techniques to prepare textual data.
+- Converted review text into numerical features using TF-IDF.
+- Experimented with multiple machine learning classification algorithms.
+- Used a trained Random Forest model for review prediction.
+
+**Tech Stack:** Python · Pandas · NumPy · Scikit-learn · NLP · TF-IDF · Logistic Regression · Naive Bayes · Random Forest · React · JavaScript · Vite
 
 🔗 [View Fake Review Detection Project](https://github.com/aditijamkar-04/Fake-Review-Detection-Using-ML-and-NLP)
 
