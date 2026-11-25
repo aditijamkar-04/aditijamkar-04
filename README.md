@@ -1,22 +1,18 @@
-<!-- PROFILE HEADER -->
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776E6&height=190&section=header&text=Aditi%20Jamkar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Python%20%7C%20SQL&descAlignY=60&animation=fadeIn" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776E6&height=200&section=header&text=Aditi%20Jamkar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=58&animation=fadeIn" width="100%" />
+### Turning Data into Insights | Building Practical AI Solutions
 
-### Building with Data. Creating with AI. Learning Every Day. 🚀
-
-<a href="https://github.com/aditijamkar-04">
-  <img src="https://img.shields.io/badge/GitHub-aditijamkar--04-181717?style=for-the-badge&logo=github" />
-</a>
 <a href="https://www.linkedin.com/in/aditi-jamkar-747306361">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/aditijamkar-04">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:aditijamkar123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=aditijamkar-04&style=flat-square&color=4776E6&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -24,78 +20,105 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Aditi Jamkar**, an Artificial Intelligence and Data Science Engineering graduate who enjoys exploring technology and building practical solutions.
+I'm an **AI and Data Science Engineer** interested in building practical applications using Python, SQL, Machine Learning and Artificial Intelligence.
 
-- 🧠 Interested in Artificial Intelligence, Machine Learning and Data Analytics.
-- 🐍 Enjoy working with Python and SQL.
+- 🧠 Interested in Machine Learning, NLP and Data Analytics.
+- 🐍 Enjoy solving problems with Python and SQL.
 - 🤖 Exploring Generative AI and Large Language Models.
-- 🔍 Interested in transforming raw data into meaningful insights.
-- 💻 Building projects that combine AI, databases and web development.
-- 🌱 Always learning, experimenting and improving.
-
-> *Curiosity drives me. Code empowers me. Data inspires me.*
+- 🗄️ Building database-driven applications using Flask and SQL Server.
+- 📊 Interested in data processing, analysis and visualization.
+- 🌱 Always learning and improving through hands-on projects.
 
 ---
 
-## ⚡ My Tech Universe
+## 🧰 Technical Skills
 
 <div align="center">
 
-### 💻 Programming
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+**Programming Languages**
 
-### 📊 Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+**Data Science & Python Libraries**
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge" />
 
-### 🛠️ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=flask,git,github,vscode" />
+**Frameworks & Technologies**
+
+<img src="https://skillicons.dev/icons?i=flask,react,html,css" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLGlot-SQL%20Parsing-4169E1?style=for-the-badge" />
+
+**Databases & Development Tools**
 
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SSMS-Database%20Management-0078D4?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
 </div>
 
 ---
 
-## 🚀 Projects I've Built
+## 🚀 Featured Projects
 
-### 01. 🤖 AI-Powered Text-to-SQL Assistant
+### 1. 🤖 AI-Powered Text-to-SQL Assistant
 
-**Ask questions in English. Get SQL queries.**
+**Natural language questions. SQL answers.**
 
-An AI-powered web application that converts natural-language questions into SQL queries and retrieves results from a Microsoft SQL Server database.
+An AI-powered web application that converts everyday English questions into SQL queries and retrieves results from a Microsoft SQL Server database.
 
-**Highlights**
-- Natural-language to SQL generation.
-- Local AI integration using Ollama and Qwen 2.5 Coder.
-- SQL validation using SQLGlot.
-- Read-only query execution.
-- User authentication and private database workspaces.
+**Key Features**
+- Converts natural-language questions into SQL queries.
+- Uses Ollama with Qwen2.5-Coder for local AI generation.
+- Validates SQL queries using SQLGlot.
+- Restricts execution to read-only SELECT queries.
+- Supports user authentication and private database workspaces.
 
-`Python` `Flask` `Ollama` `SQL Server` `SQLGlot`
+**Tech Stack:** Python · Flask · Ollama · Qwen2.5-Coder · SQL Server · SQLGlot
 
-🔗 [Explore my GitHub repositories](https://github.com/aditijamkar-04?tab=repositories)
+🔗 [View Project on GitHub](https://github.com/aditijamkar-04/TextToSQL-Assistant)
 
-### 02. 🔍 Fake Review Detection Using Machine Learning & NLP
+### 2. 🔍 Fake Review Detection Using Machine Learning & NLP
 
-**Making online reviews more trustworthy.**
+A machine learning web application designed to classify online reviews as fake or genuine using text-based analysis.
 
-A machine learning and NLP project focused on identifying fake and genuine reviews through text classification.
+**Key Features**
+- Text preprocessing and feature extraction using TF-IDF.
+- Machine learning classification.
+- Experiments with Logistic Regression and Naive Bayes.
+- Web application for review classification.
 
-**Highlights**
-- Text preprocessing and analysis.
-- NLP-based text classification.
-- Machine learning model training.
-- Web application development.
+**Tech Stack:** Python · Machine Learning · NLP · Scikit-learn · NLTK · Flask
 
-`Python` `Scikit-learn` `NLTK` `NLP` `Flask`
+🔗 [View Project on GitHub](https://github.com/aditijamkar-04/Fake-Review-Detection-Using-ML-and-NLP)
 
-🔗 [Explore my GitHub repositories](https://github.com/aditijamkar-04?tab=repositories)
+### 3. 🗄️ SQL Server Learning Repository
+
+A hands-on collection of SQL Server queries, database concepts and interview practice exercises.
+
+**Topics Covered**
+- SQL fundamentals and filtering.
+- Joins and aggregate functions.
+- Subqueries and CTEs.
+- Window functions and interview questions.
+
+**Tech Stack:** Microsoft SQL Server · T-SQL · SSMS
+
+🔗 [View Repository](https://github.com/aditijamkar-04/SQL)
+
+### 4. 🐍 Python Practice Repository
+
+A collection of Python programs, practice exercises and coding problems developed while strengthening programming fundamentals.
+
+**Tech Stack:** Python · Jupyter Notebook
+
+🔗 [View Repository](https://github.com/aditijamkar-04/-Python)
 
 ---
 
@@ -106,17 +129,17 @@ A machine learning and NLP project focused on identifying fake and genuine revie
 <img src="https://img.shields.io/badge/Generative%20AI-Exploring-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LLMs-Learning-4169E1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Deep%20Learning-Developing-FF8C00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Analytics-Practising-008B8B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-Exploring-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
 </div>
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditijamkar-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditijamkar-04&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijamkar-04&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -126,32 +149,26 @@ A machine learning and NLP project focused on identifying fake and genuine revie
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
-I'm always interested in connecting with people who enjoy technology, learning and building meaningful projects.
+I'm always happy to connect, exchange ideas, learn new technologies and collaborate on interesting projects.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aditi-jamkar-747306361">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/aditijamkar-04">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:aditijamkar123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-### ⚡ A Little Beyond Technology
+### Beyond Coding
 
-🥾 Trekking enthusiast | 💡 Technology explorer | 📚 Lifelong learner
+🥾 Trekking | 🎬 Series & Dramas | 💡 Exploring Technology
 
-**"Dream big. Learn continuously. Build fearlessly."**
-
-⭐ Thanks for stopping by! Have a great day.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:243B55,100:141E30&height=100&section=footer" width="100%" />
+*Keep learning. Keep building. Keep growing.*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:243B55,100:141E30&height=100&section=footer" width="100%" />
