@@ -10,9 +10,7 @@
 <a href="https://github.com/aditijamkar-04">
   <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:aditijamkar123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+📧 Email: <a href="mailto:aditijamkar123@gmail.com">aditijamkar123@gmail.com</a>
 
 </div>
 
@@ -149,6 +147,15 @@ A collection of Python programs, practice exercises and coding problems develope
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aditijamkar-04/aditijamkar-04/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
 ## 🤝 Let's Connect
 
 I'm always happy to connect, exchange ideas, learn new technologies and collaborate on interesting projects.
@@ -159,9 +166,7 @@ I'm always happy to connect, exchange ideas, learn new technologies and collabor
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:aditijamkar123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+📧 Email: <a href="mailto:aditijamkar123@gmail.com">aditijamkar123@gmail.com</a>
 
 ### Beyond Coding
 
