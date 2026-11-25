@@ -10,7 +10,9 @@
 <a href="https://github.com/aditijamkar-04">
   <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-📧 Email: <a href="mailto:aditijamkar123@gmail.com">aditijamkar123@gmail.com</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aditijamkar123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -35,7 +37,7 @@ I'm an **AI and Data Science Engineer** interested in building practical applica
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=python,cpp" />
 
 **Data Science & Python Libraries**
 
@@ -49,7 +51,7 @@ I'm an **AI and Data Science Engineer** interested in building practical applica
 
 **Frameworks & Technologies**
 
-<img src="https://skillicons.dev/icons?i=flask,react,html,css" />
+<img src="https://skillicons.dev/icons?i=flask,html,css" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLGlot-SQL%20Parsing-4169E1?style=for-the-badge" />
 
@@ -84,13 +86,13 @@ An AI-powered web application that converts everyday English questions into SQL 
 
 ### 2. 🔍 Fake Review Detection Using Machine Learning & NLP
 
-A machine learning web application designed to classify online reviews as fake or genuine using text-based analysis.
+A machine learning project focused on identifying fake and genuine online reviews through text-based analysis.
 
 **Key Features**
-- Text preprocessing and feature extraction using TF-IDF.
-- Machine learning classification.
-- Experiments with Logistic Regression and Naive Bayes.
-- Web application for review classification.
+- Text preprocessing and analysis.
+- NLP-based text classification.
+- Machine learning model training.
+- Web application development.
 
 **Tech Stack:** Python · Machine Learning · NLP · Scikit-learn · NLTK · Flask
 
@@ -135,49 +137,28 @@ A collection of Python programs, practice exercises and coding problems develope
 
 ## 📊 GitHub Statistics
 
-## 📈 GitHub Insights
-
-\<div align="center">
-
-\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=aditijamkar-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=aditijamkar-04\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
-
-\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=aditijamkar-04&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=aditijamkar-04\&layout=compact\&theme=tokyonight\&hide_border=true)" />
-
-\<img width="90%" src="[https://streak-stats.demolab.com?user=aditijamkar-04&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=aditijamkar-04\&theme=tokyonight\&hide_border=true)" />
-
-\</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-I'm always interested in connecting with people who enjoy technology, learning and building meaningful projects.
-
-\<div align="center">
-
-\<a href="[https://www.linkedin.com/in/aditi-jamkar-747306361](https://www.linkedin.com/in/aditi-jamkar-747306361)">
-\<img src="[https://img.shields.io/badge/LinkedIn-Let](https://img.shields.io/badge/LinkedIn-Let)'s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-\</a>
-
-\<a href="[https://github.com/aditijamkar-04](https://github.com/aditijamkar-04)">
-\<img src="[https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-\</a>
-
-\<a href="mailto\:aditijamkar123\@gmail.com">
-\<img src="[https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-\</a>
-
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aditijamkar-04/aditijamkar-04/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditijamkar-04&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijamkar-04&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=aditijamkar-04&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditijamkar-04&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always happy to connect, exchange ideas, learn new technologies and collaborate on interesting projects.
@@ -185,10 +166,14 @@ I'm always happy to connect, exchange ideas, learn new technologies and collabor
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aditi-jamkar-747306361">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-📧 Email: <a href="mailto:aditijamkar123@gmail.com">aditijamkar123@gmail.com</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aditijamkar123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<p>📧 <a href="mailto:aditijamkar123@gmail.com">aditijamkar123@gmail.com</a></p>
 
 ### Beyond Coding
 
