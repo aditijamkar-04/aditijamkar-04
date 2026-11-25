@@ -159,17 +159,6 @@ A collection of Python programs, practice exercises and coding problems develope
 <img width="90%" src="https://streak-stats.demolab.com?user=aditijamkar-04&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditijamkar-04&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect & Collaborate
@@ -186,7 +175,6 @@ I'm always interested in connecting with people who enjoy technology, learning a
 <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<p>📧 <a href="mailto:aditijamkar123@gmail.com">aditijamkar123@gmail.com</a></p>
 
 ### Beyond Coding
 
