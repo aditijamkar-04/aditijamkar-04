@@ -135,15 +135,37 @@ A collection of Python programs, practice exercises and coding problems develope
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+## 📈 GitHub Insights
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditijamkar-04&show_icons=true&theme=tokyonight&hide_border=true" />
+\<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijamkar-04&layout=compact&theme=tokyonight&hide_border=true" />
+\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=aditijamkar-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=aditijamkar-04\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=aditijamkar-04&theme=tokyonight&hide_border=true" />
+\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=aditijamkar-04&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=aditijamkar-04\&layout=compact\&theme=tokyonight\&hide_border=true)" />
 
-</div>
+\<img width="90%" src="[https://streak-stats.demolab.com?user=aditijamkar-04&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=aditijamkar-04\&theme=tokyonight\&hide_border=true)" />
+
+\</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always interested in connecting with people who enjoy technology, learning and building meaningful projects.
+
+\<div align="center">
+
+\<a href="[https://www.linkedin.com/in/aditi-jamkar-747306361](https://www.linkedin.com/in/aditi-jamkar-747306361)">
+\<img src="[https://img.shields.io/badge/LinkedIn-Let](https://img.shields.io/badge/LinkedIn-Let)'s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+\</a>
+
+\<a href="[https://github.com/aditijamkar-04](https://github.com/aditijamkar-04)">
+\<img src="[https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+\</a>
+
+\<a href="mailto\:aditijamkar123\@gmail.com">
+\<img src="[https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+\</a>
 
 ---
 
