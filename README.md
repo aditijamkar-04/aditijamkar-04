@@ -82,7 +82,7 @@ An AI-powered web application that converts everyday English questions into SQL 
 
 **Tech Stack:** Python · Flask · Ollama · Qwen2.5-Coder · SQL Server · SQLGlot
 
-🔗 [View Project on GitHub](https://github.com/aditijamkar-04/TextToSQL-Assistant)
+🔗 [View AI-Powered Text-to-SQL Assistant](https://github.com/aditijamkar-04/TextToSQL-Assistant)
 
 ### 2. 🔍 Fake Review Detection Using Machine Learning & NLP
 
@@ -96,7 +96,7 @@ A machine learning project focused on identifying fake and genuine online review
 
 **Tech Stack:** Python · Machine Learning · NLP · Scikit-learn · NLTK · Flask
 
-🔗 [View Project on GitHub](https://github.com/aditijamkar-04/Fake-Review-Detection-Using-ML-and-NLP)
+🔗 [View Fake Review Detection Project](https://github.com/aditijamkar-04/Fake-Review-Detection-Using-ML-and-NLP)
 
 ### 3. 🗄️ SQL Server Learning Repository
 
@@ -110,7 +110,7 @@ A hands-on collection of SQL Server queries, database concepts and interview pra
 
 **Tech Stack:** Microsoft SQL Server · T-SQL · SSMS
 
-🔗 [View Repository](https://github.com/aditijamkar-04/SQL)
+🔗 [View SQL Server Learning Repository](https://github.com/aditijamkar-04/SQL)
 
 ### 4. 🐍 Python Practice Repository
 
@@ -118,7 +118,7 @@ A collection of Python programs, practice exercises and coding problems develope
 
 **Tech Stack:** Python · Jupyter Notebook
 
-🔗 [View Repository](https://github.com/aditijamkar-04/-Python)
+🔗 [View Python Practice Repository](https://github.com/aditijamkar-04/-Python)
 
 ---
 
@@ -173,7 +173,6 @@ I'm always interested in connecting with people who enjoy technology, learning a
 <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<p>📧 <a href="mailto:aditijamkar123@gmail.com">aditijamkar123@gmail.com</a></p>
 
 ### Beyond Coding
 
