@@ -156,8 +156,6 @@ A collection of Python programs, practice exercises and coding problems develope
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijamkar-04&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=aditijamkar-04&theme=tokyonight&hide_border=true" />
-
 </div>
 ---
 
