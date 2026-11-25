@@ -34,7 +34,7 @@ I'm an **Artificial Intelligence and Data Science Engineer** interested in devel
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 
 **Database & Query Languages**
 
@@ -59,7 +59,8 @@ I'm an **Artificial Intelligence and Data Science Engineer** interested in devel
 **Tools & Development Environment**
 
 <img src="https://img.shields.io/badge/SSMS-Database%20Management-0078D4?style=for-the-badge" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql" />
+
 ---
 
 ## 🎓 Education
@@ -81,7 +82,7 @@ Babasaheb Naik College of Engineering, Pusad
 Developed an AI-powered web application that converts natural-language questions into SQL queries and retrieves results from a Microsoft SQL Server database. The application simplifies database interaction by allowing users to query data without manually writing SQL.
 
 **Key Features**
-- Converts natural-language questions into SQL queries using an LLM.
+- Converts natural-language questions into SQL queries.
 - Retrieves database schema information to support query generation.
 - Validates generated SQL queries using SQLGlot.
 - Restricts query execution to read-only SELECT statements.
