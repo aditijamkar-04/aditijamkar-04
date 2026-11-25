@@ -1,9 +1,8 @@
- 
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776E6&height=190&section=header&text=Aditi%20Jamkar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Python%20%7C%20SQL&descAlignY=60&animation=fadeIn" width="100%" />
 
-### Building with Python, SQL & AI | Exploring Machine Learning and Generative AI
+### AI & Data Science Engineer | Python, SQL & Machine Learning
 
 <a href="https://www.linkedin.com/in/aditi-jamkar-747306361">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -21,13 +20,13 @@
 
 ## 👩‍💻 About Me
 
-I'm an **AI and Data Science Engineer** interested in building practical applications using Python, SQL, Machine Learning and Artificial Intelligence.
+I'm an **Artificial Intelligence and Data Science Engineer** interested in developing practical applications using Python, SQL, Machine Learning and Artificial Intelligence.
 
-- 🧠 AI and Data Science enthusiast interested in practical software and data-driven solutions.
-- 💻 Hands-on experience building applications using Python and Flask.
-- 📊 Interested in SQL, Machine Learning, NLP and Data Analytics.
+- 💻 Hands-on project experience with Python, Flask and SQL.
+- 📊 Interested in data analysis, database management and machine learning.
 - 🤖 Exploring Generative AI and Large Language Models through practical projects.
-- 🚀 Continuously improving through coding, problem-solving and hands-on learning.
+- 🧠 Enjoy solving problems and building data-driven applications.
+- 🚀 Continuously learning and improving my technical skills.
 
 ---
 
@@ -84,23 +83,23 @@ Babasaheb Naik College of Engineering, Pusad
 An AI-powered web application that converts everyday English questions into SQL queries and retrieves results from a Microsoft SQL Server database.
 
 **Key Features**
-
 - Converts natural-language questions into SQL queries.
 - Uses Ollama with Qwen2.5-Coder for local AI generation.
 - Validates SQL queries using SQLGlot.
 - Restricts execution to read-only SELECT queries.
 - Supports user authentication and private database workspaces.
 
-**Tech Stack:** Python · Flask · Ollama · Qwen2.5-Coder · SQL Server · SQLGlot
+**Tech Stack:** Python · Flask · Ollama · Qwen2.5-Coder · Microsoft SQL Server · SQLGlot
 
 🔗 [View AI-Powered Text-to-SQL Assistant](https://github.com/aditijamkar-04/TextToSQL-Assistant)
+
+---
 
 ### 2. 🔍 Fake Review Detection Using Machine Learning & NLP
 
 A machine learning project focused on identifying fake and genuine online reviews through text-based analysis.
 
 **Key Features**
-
 - Text preprocessing and analysis.
 - NLP-based text classification.
 - Machine learning model training.
@@ -110,12 +109,13 @@ A machine learning project focused on identifying fake and genuine online review
 
 🔗 [View Fake Review Detection Project](https://github.com/aditijamkar-04/Fake-Review-Detection-Using-ML-and-NLP)
 
+---
+
 ### 3. 🗄️ SQL Server Learning Repository
 
 A hands-on collection of SQL Server queries, database concepts and interview practice exercises.
 
 **Topics Covered**
-
 - SQL fundamentals and filtering.
 - Joins and aggregate functions.
 - Subqueries and CTEs.
@@ -124,6 +124,8 @@ A hands-on collection of SQL Server queries, database concepts and interview pra
 **Tech Stack:** Microsoft SQL Server · T-SQL · SSMS
 
 🔗 [View SQL Server Learning Repository](https://github.com/aditijamkar-04/SQL)
+
+---
 
 ### 4. 🐍 Python Practice Repository
 
@@ -157,6 +159,7 @@ A collection of Python programs, practice exercises and coding problems develope
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijamkar-04&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 ---
 
 ## 🤝 Let's Connect & Collaborate
@@ -172,7 +175,6 @@ I'm always interested in connecting with people who enjoy technology, learning a
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aditijamkar123@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
 
 ### Beyond Coding
 
