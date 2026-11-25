@@ -1,8 +1,9 @@
- <div align="center">
+ 
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776E6&height=190&section=header&text=Aditi%20Jamkar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Python%20%7C%20SQL&descAlignY=60&animation=fadeIn" width="100%" />
 
-### Turning Data into Insights | Building Practical AI Solutions
+### Building with Python, SQL & AI | Exploring Machine Learning and Generative AI
 
 <a href="https://www.linkedin.com/in/aditi-jamkar-747306361">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,12 +23,11 @@
 
 I'm an **AI and Data Science Engineer** interested in building practical applications using Python, SQL, Machine Learning and Artificial Intelligence.
 
-- 🧠 Interested in Machine Learning, NLP and Data Analytics.
-- 🐍 Enjoy solving problems with Python and SQL.
-- 🤖 Exploring Generative AI and Large Language Models.
-- 🗄️ Building database-driven applications using Flask and SQL Server.
-- 📊 Interested in data processing, analysis and visualization.
-- 🌱 Always learning and improving through hands-on projects.
+- 🧠 AI and Data Science enthusiast interested in practical software and data-driven solutions.
+- 💻 Hands-on experience building applications using Python and Flask.
+- 📊 Interested in SQL, Machine Learning, NLP and Data Analytics.
+- 🤖 Exploring Generative AI and Large Language Models through practical projects.
+- 🚀 Continuously improving through coding, problem-solving and hands-on learning.
 
 ---
 
@@ -65,6 +65,16 @@ I'm an **AI and Data Science Engineer** interested in building practical applica
 
 ---
 
+## 🎓 Education
+
+**Bachelor of Engineering – Artificial Intelligence and Data Science**
+
+Babasaheb Naik College of Engineering, Pusad
+
+2022 – 2026
+
+---
+
 ## 🚀 Featured Projects
 
 ### 1. 🤖 AI-Powered Text-to-SQL Assistant
@@ -74,6 +84,7 @@ I'm an **AI and Data Science Engineer** interested in building practical applica
 An AI-powered web application that converts everyday English questions into SQL queries and retrieves results from a Microsoft SQL Server database.
 
 **Key Features**
+
 - Converts natural-language questions into SQL queries.
 - Uses Ollama with Qwen2.5-Coder for local AI generation.
 - Validates SQL queries using SQLGlot.
@@ -89,6 +100,7 @@ An AI-powered web application that converts everyday English questions into SQL 
 A machine learning project focused on identifying fake and genuine online reviews through text-based analysis.
 
 **Key Features**
+
 - Text preprocessing and analysis.
 - NLP-based text classification.
 - Machine learning model training.
@@ -103,6 +115,7 @@ A machine learning project focused on identifying fake and genuine online review
 A hands-on collection of SQL Server queries, database concepts and interview practice exercises.
 
 **Topics Covered**
+
 - SQL fundamentals and filtering.
 - Joins and aggregate functions.
 - Subqueries and CTEs.
@@ -149,6 +162,16 @@ A collection of Python programs, practice exercises and coding problems develope
 
 ---
 
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditijamkar-04&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
 ## 🤝 Let's Connect & Collaborate
 
 I'm always interested in connecting with people who enjoy technology, learning and building meaningful projects.
@@ -163,6 +186,7 @@ I'm always interested in connecting with people who enjoy technology, learning a
 <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
+<p>📧 <a href="mailto:aditijamkar123@gmail.com">aditijamkar123@gmail.com</a></p>
 
 ### Beyond Coding
 
