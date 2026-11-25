@@ -59,7 +59,7 @@ I'm an **Artificial Intelligence and Data Science Engineer** interested in devel
 **Tools & Development Environment**
 
 <img src="https://img.shields.io/badge/SSMS-Database%20Management-0078D4?style=for-the-badge" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,jupyter" />
 
 ---
 
