@@ -149,16 +149,6 @@ A collection of Python programs, practice exercises and coding problems develope
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditijamkar-04&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 I'm always interested in connecting with people who enjoy technology, learning and building meaningful projects.
